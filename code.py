@@ -167,7 +167,7 @@ Avg_Short['Avg_2_Day_Short'] = Avg_2_Days_Short
 Avg_Short['Avg_3_Day_Short'] = Avg_3_Days_Short
 Avg_Short['Avg_4_Day_Short'] = Avg_4_Days_Short
 Avg_Short['Avg_5_Day_Short'] = Avg_5_Days_Short
-Short_Stock1['Day_PCT_Short+5'].cumsum().plot(legend=True)
+
 
 #stats
 Long_Stock1.describe()
